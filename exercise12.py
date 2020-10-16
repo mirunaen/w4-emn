@@ -1,3 +1,4 @@
+#A program made to calculate cuantities
 cuantity= float(input("Enter a  cuantity: "))
 if cuantity !=0:
   if cuantity>=0:
